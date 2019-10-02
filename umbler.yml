@@ -6,4 +6,4 @@ description: "Cockpit is awesome if you need a flexible content structure but do
 short_description: "Simple Content Platform to manage any structured content."
 stack: php
 pack: "**/*.*"
-dest: /
+dest: /public
