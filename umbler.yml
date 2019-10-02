@@ -4,6 +4,6 @@ logo_url: https://design.umbler.com/assets/svg/sprite-logos.svg#cockpit
 version: 0.9.3
 description: "Cockpit is awesome if you need a flexible content structure but don't want to be limited in how to use the content. Cockpit is a perfect match if you want to support multiple devices or need a content management UI for static site builders. Build unique applications and let Cockpit feed them with content."
 short_description: "Simple Content Platform to manage any structured content."
-stack: node
+stack: php
 pack: "**/*.*"
 dest: /
